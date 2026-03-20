@@ -56,7 +56,9 @@ MCP：提供 Web 数据能力
 
 在 n8n 中，只需要在 Agent 工具中添加 **MCP Client**，并配置 Endpoint：
 
+```id="k7cmt0"
 https://mcp.brightdata.com/mcp?token=YOUR_TOKEN
+```
 
 然后设置：
 
